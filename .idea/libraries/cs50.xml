@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cs50">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pset1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lab6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

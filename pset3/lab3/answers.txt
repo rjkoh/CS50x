@@ -1,0 +1,6 @@
+sort1 uses: bubble sort
+How do you know?: sorts random inputs faster than sort3
+sort2 uses: merge sort
+How do you know?: processes random inputs faster than other sorts
+sort3 uses: selection sort
+How do you know?: sorts both random and sorted inputs slower than the rest
