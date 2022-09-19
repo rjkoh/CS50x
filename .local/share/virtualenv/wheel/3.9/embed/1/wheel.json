@@ -1,0 +1,17 @@
+{
+  "completed": "2022-09-19T17:11:09.596768Z",
+  "periodic": true,
+  "started": "2022-09-19T17:10:18.260676Z",
+  "versions": [
+    {
+      "filename": "wheel-0.37.1-py2.py3-none-any.whl",
+      "found_date": "2022-09-19T17:10:18.796088Z",
+      "release_date": "2021-12-22T12:22:00.000000Z"
+    },
+    {
+      "filename": "wheel-0.36.2-py2.py3-none-any.whl",
+      "found_date": "2021-04-25T10:36:08.084935Z",
+      "release_date": "2020-12-13T18:09:07.000000Z"
+    }
+  ]
+}

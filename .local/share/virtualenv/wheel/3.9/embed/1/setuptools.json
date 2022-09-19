@@ -1,0 +1,42 @@
+{
+  "completed": "2022-09-19T17:11:20.999327Z",
+  "periodic": true,
+  "started": "2022-09-19T17:10:18.392950Z",
+  "versions": [
+    {
+      "filename": "setuptools-65.3.0-py3-none-any.whl",
+      "found_date": "2022-09-19T17:10:18.912330Z",
+      "release_date": "2022-08-24T11:09:27.000000Z"
+    },
+    {
+      "filename": "setuptools-65.2.0-py3-none-any.whl",
+      "found_date": "2022-09-19T17:11:11.406661Z",
+      "release_date": "2022-08-21T22:56:21.000000Z"
+    },
+    {
+      "filename": "setuptools-57.2.0-py3-none-any.whl",
+      "found_date": "2021-07-16T10:18:52.899342Z",
+      "release_date": "2021-07-15T03:03:06.000000Z"
+    },
+    {
+      "filename": "setuptools-57.1.0-py3-none-any.whl",
+      "found_date": "2021-07-16T10:19:16.183496Z",
+      "release_date": "2021-07-05T03:57:25.000000Z"
+    },
+    {
+      "filename": "setuptools-57.0.0-py3-none-any.whl",
+      "found_date": "2021-07-16T10:19:25.980294Z",
+      "release_date": "2021-05-23T03:54:57.000000Z"
+    },
+    {
+      "filename": "setuptools-56.0.0-py3-none-any.whl",
+      "found_date": "2021-04-25T10:36:08.090820Z",
+      "release_date": "2021-04-09T00:24:04.000000Z"
+    },
+    {
+      "filename": "setuptools-54.2.0-py3-none-any.whl",
+      "found_date": "2021-04-25T10:36:22.516155Z",
+      "release_date": "2021-03-22T14:07:33.000000Z"
+    }
+  ]
+}
